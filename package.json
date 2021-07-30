@@ -1,0 +1,15 @@
+{
+  "name": "regexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Erick.Kim <rudwhd4474@gmail.com> (https://github.com/KIMKYUNGJONG)",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
